@@ -1,6 +1,6 @@
 Skate4Laucnher - Core64 Current Launcher
 ========================================
-
+IMPORTANT MANE GAME FILE DOWNLOAD KEEP FOLDER NAME ("Skate4-ReSkate") <3
 Launcher executable:
   Skate4Laucnher.exe
 
